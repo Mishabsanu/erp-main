@@ -1,0 +1,4 @@
+name,itemCode,description,unit,reorderLevel,status
+"Industrial Ladder","LAD-5M","5 meter aluminum industrial ladder","pcs",5,active
+"Safety Helmet","HEL-SEC","High impact safety helmet","pcs",20,active
+"Work Gloves","GLV-PRO","Heavy duty leather work gloves","pairs",50,active

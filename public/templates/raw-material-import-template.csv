@@ -1,0 +1,4 @@
+name,itemCode,unit,description,reorderLevel,status
+"Steel Plate","SP-001","pcs","Industrial grade steel plate",10,active
+"Hydraulic Oil","HO-500","liter","High pressure hydraulic fluid",50,active
+"Copper Wire","CW-2.5","meter","2.5mm insulated copper wire",100,active
