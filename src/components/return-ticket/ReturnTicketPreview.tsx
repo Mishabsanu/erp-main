@@ -156,8 +156,8 @@ const ReturnTicketPreview = ({
                     {/* Left: Contact Info */}
                     <div className="w-[35%] text-[6.5pt] text-gray-700 space-y-0 pt-0.5">
                         <p className="font-bold text-[8pt] mb-0.5 text-[#0f766e]">AKOD TRADING & SERVICES WLL</p>
-                        <p>Mob: +974 3030 3613</p>
-                        <p>Tel: +974 4421 4042</p>
+                        <p>Mob: +974 0000 0000</p>
+                        <p>Tel: +974 0000 0000</p>
                         <p>E-mail: info@akod.com</p>
                         <p>Website: www.akod.com</p>
                     </div>
@@ -361,9 +361,9 @@ const ReturnTicketPreview = ({
                     <div className="text-center text-white font-sans bg-[#0f766e] py-2 px-10">
                         <div className="flex flex-col gap-0.5 text-[7.5pt] font-bold leading-tight tracking-wide">
                             <div className="flex items-center justify-center gap-3">
-                                <span>Mob: +974 3030 3613</span>
+                                <span>Mob: +974 0000 0000</span>
                                 <span className="w-0.5 h-0.5 bg-teal-400 rounded-full opacity-50" />
-                                <span>Tel: +974 4421 4042</span>
+                                <span>Tel: +974 0000 0000</span>
                                 <span className="w-0.5 h-0.5 bg-teal-400 rounded-full opacity-50" />
                                 <span>E-mail: info@akod.com</span>
                                 <span className="w-0.5 h-0.5 bg-teal-400 rounded-full opacity-50" />

@@ -180,7 +180,7 @@ const SettlementReportPage = () => {
                                 <div className="w-1.5 h-1.5 bg-[#0f766e] rounded-full" />
                                 <p className="font-black text-[10pt] text-slate-900 tracking-tighter uppercase">AKOD TRADING & SERVICES</p>
                             </div>
-                            <p>Mob: +974 3030 3613 | P.O. Box: 9044</p>
+                            <p>Mob: +974 0000 0000 | P.O. Box: 9044</p>
                             <p className="font-black text-slate-900 mt-1 uppercase tracking-tight">Doha - State of Qatar</p>
                         </div>
 

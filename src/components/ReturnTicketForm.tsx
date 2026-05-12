@@ -22,13 +22,11 @@ import ReturnTicketPreview from './return-ticket/ReturnTicketPreview';
 import { toast } from 'sonner';
 
 const STAFF_LIST = [
-  { name: 'MANSOOR', phone: '70814261' },
-  { name: 'RASEEM', phone: '70814262' },
-  { name: 'MUSTHAFA', phone: '70814263' },
-  { name: 'THASHNEEB', phone: '70814264' },
-  { name: 'BASIL', phone: '31214455' },
-  { name: 'KARK', phone: '66069200' },
-  { name: 'SHIFAN', phone: '71513931' },
+  { name: 'Staff Member 1', phone: '50001111' },
+  { name: 'Staff Member 2', phone: '50002222' },
+  { name: 'Staff Member 3', phone: '50003333' },
+  { name: 'Staff Member 4', phone: '50004444' },
+  { name: 'Staff Member 5', phone: '50005555' },
 ];
 
 const LOCATION_OPTIONS = [
