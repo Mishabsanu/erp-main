@@ -100,7 +100,7 @@ const LoginPage = () => {
             
             <Image
               src="/logo.png"
-              alt="Proserve Logo"
+              alt="Akod Logo"
               width={240}
               height={80}
               className="relative object-contain transition-transform duration-500 group-hover:scale-105"
@@ -218,7 +218,7 @@ const LoginPage = () => {
               Welcome <span className="text-[#0f766e]">Back</span>
             </h3>
             <p className="text-sm font-bold text-gray-500 leading-relaxed">
-              Enter secure credentials to access the Proserve enterprise dashboard.
+              Enter secure credentials to access the Akod enterprise dashboard.
             </p>
           </div>
 
@@ -237,7 +237,7 @@ const LoginPage = () => {
                     id="email"
                     name="email"
                     type="email"
-                    placeholder="email@proserve.com"
+                    placeholder="email@akod.com"
                     autoComplete="email"
                     onChange={formik.handleChange}
                     onBlur={formik.handleBlur}
@@ -318,7 +318,7 @@ const LoginPage = () => {
 
             <div className="text-center space-y-2">
               <p className="text-[10px] font-black uppercase tracking-widest text-gray-400">
-                © {currentYear} PROSERVE GROUP.
+                © {currentYear} AKOD GROUP.
               </p>
               <p className="text-[9px] font-bold uppercase tracking-tighter text-gray-300">
                 Security Policy Enforcement Active

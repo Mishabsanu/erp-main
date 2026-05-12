@@ -5,7 +5,7 @@ import LayoutWrapper from '@/components/LayoutWrapper';
 import 'react-phone-input-2/lib/style.css';
 import { Toaster } from 'sonner';
 export const metadata: Metadata = {
-  title: 'PROSERVE ERP',
+  title: 'AKOD ERP',
   description: 'Enterprise Resource Planning Application',
   icons: {
     icon: '/loading.jpeg',

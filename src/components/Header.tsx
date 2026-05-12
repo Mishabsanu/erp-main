@@ -21,7 +21,7 @@ const Header = () => {
         <div className="md:hidden">
           <h1 className="text-xl font-black text-[#1e293b] tracking-tight flex items-center gap-2">
             <span className="w-2 h-8 bg-[#0f766e] rounded-full" />
-            PROSERVE <span className="text-[#0f766e] uppercase">ERP</span>
+            AKOD <span className="text-[#0f766e] uppercase">ERP</span>
           </h1>
         </div>
       </div>

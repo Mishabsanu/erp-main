@@ -41,7 +41,7 @@ const SOURCE_OPTIONS = [
   { value: 'Store Mekeinese', label: 'Store Mekeinese' },
   { value: 'Store Birkat Al Awamer', label: 'Store Birkat Al Awamer' },
   { value: 'Factory Birkat Al Awamer', label: 'Factory Birkat Al Awamer' },
-  { value: 'Proserve Site', label: 'Proserve Site' },
+  { value: 'Akod Site', label: 'Akod Site' },
   { value: 'Other', label: 'Other' },
 ];
 

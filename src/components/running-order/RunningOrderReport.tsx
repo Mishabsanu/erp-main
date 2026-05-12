@@ -80,11 +80,11 @@ const RunningOrderReport = React.forwardRef<HTMLDivElement, RunningOrderReportPr
             {/* 1. Header Section */}
             <div className="flex justify-between items-start mb-2 border-b border-[#0f766e] pb-1">
                 <div className="w-[35%] text-[6.5pt] text-gray-700 space-y-0 pt-0.5">
-                    <p className="font-bold text-[8pt] mb-0.5 text-[#0f766e]">PROSERVE TRADING & SERVICES WLL</p>
+                    <p className="font-bold text-[8pt] mb-0.5 text-[#0f766e]">AKOD TRADING & SERVICES WLL</p>
                     <p>Mob: +974 3030 3613</p>
                     <p>Tel: +974 4421 4042</p>
-                    <p>E-mail: info@proservets.com</p>
-                    <p>Website: www.proservets.com</p>
+                    <p>E-mail: info@akod.com</p>
+                    <p>Website: www.akod.com</p>
                 </div>
 
                 <div className="w-[30%] flex flex-col items-center">
@@ -327,9 +327,9 @@ const RunningOrderReport = React.forwardRef<HTMLDivElement, RunningOrderReportPr
                             <span className="w-0.5 h-0.5 bg-teal-400 rounded-full opacity-50" />
                             <span>Tel: +974 4421 4042</span>
                             <span className="w-0.5 h-0.5 bg-teal-400 rounded-full opacity-50" />
-                            <span>E-mail: info@proservets.com</span>
+                            <span>E-mail: info@akod.com</span>
                             <span className="w-0.5 h-0.5 bg-teal-400 rounded-full opacity-50" />
-                            <span>Website: www.proservets.com</span>
+                            <span>Website: www.akod.com</span>
                         </div>
                         <div className="border-t border-teal-400/20 pt-1 mt-1 text-[6.5pt] font-black uppercase tracking-widest flex items-center justify-center gap-4 opacity-80">
                             <span>C.R. No: 147701</span>

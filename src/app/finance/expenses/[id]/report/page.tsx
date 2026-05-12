@@ -178,7 +178,7 @@ const SettlementReportPage = () => {
                         <div className="text-[8pt] text-slate-700 space-y-0.5 pt-2">
                             <div className="flex items-center gap-1 mb-2">
                                 <div className="w-1.5 h-1.5 bg-[#0f766e] rounded-full" />
-                                <p className="font-black text-[10pt] text-slate-900 tracking-tighter uppercase">PROSERVE TRADING & SERVICES</p>
+                                <p className="font-black text-[10pt] text-slate-900 tracking-tighter uppercase">AKOD TRADING & SERVICES</p>
                             </div>
                             <p>Mob: +974 3030 3613 | P.O. Box: 9044</p>
                             <p className="font-black text-slate-900 mt-1 uppercase tracking-tight">Doha - State of Qatar</p>
@@ -320,7 +320,7 @@ const SettlementReportPage = () => {
                                 Official Financial Document • Confidential
                             </div>
                             <div className="text-[7pt] font-black text-slate-900">
-                                PROSERVE &copy; {new Date().getFullYear()} ALL RIGHTS RESERVED
+                                AKOD &copy; {new Date().getFullYear()} ALL RIGHTS RESERVED
                             </div>
                         </div>
                     </div>

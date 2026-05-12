@@ -15,7 +15,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
 
           {/* Global Footer */}
           <footer className="w-full text-center pt-8 mt-auto text-[11px] font-semibold text-gray-400 tracking-wide">
-            <p>&copy; {new Date().getFullYear()} PROSERVE. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} AKOD. All rights reserved.</p>
             <p className="mt-1">
               Powered by <span className="text-[#0f766e] font-bold">AKODTECH</span>
             </p>
